@@ -1,10 +1,10 @@
-# C++ implementation of Lidar Obstacle Detection using Point Cloud Library 
+# C++ implementation of Lidar Obstacle Detection using Point Cloud Library
 
 <img src="media/demo2.gif" width="700" height="400" />
 
 ## Overview
 
-This project is part of the Udacity Sensor Fusion nanodegree program. It focuses on detecting obstacles using Lidar data, implementing segmentation, clustering, and tracking of objects.
+This project is part of the Udacity Sensor Fusion nanodegree program. It focuses on detecting obstacles using Lidar data, implementing segmentation, clustering, and tracking of objects. The repo has my own implementations of the Ransac and Clustering algorithms as well.
 
 ## Project Structure
 
@@ -30,8 +30,7 @@ The project consists of several components including data handling, segmentation
 2. Execute the following commands in a terminal
 
    ```shell
-   sudo apt install libpcl-dev
-   cd ~/SFND_Lidar_Obstacle_Detection
+   cd ~/Lidar-Obstacle-Detection
    mkdir build && cd build
    cmake ..
    make
