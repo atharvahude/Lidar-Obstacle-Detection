@@ -52,4 +52,4 @@ You can either build PCL from source (for v1.11) or use the older version.
 
 ## Video Demo
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/vKiNVd3vQqM)
+[![Watch the video]](https://youtu.be/vKiNVd3vQqM)
