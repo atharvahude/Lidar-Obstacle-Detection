@@ -1,6 +1,6 @@
 # Sensor Fusion Self-Driving Car Course
 
-<img src="media/demo.gif" width="700" height="400" />
+<img src="media/demo2.gif" width="700" height="400" />
 
 ### Welcome to the Sensor Fusion course for self-driving cars.
 
